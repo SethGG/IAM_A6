@@ -1,0 +1,6 @@
+MIP contrast -1
+Alpha contrast -7
+
+Lower 125
+Upper 254
+Marching cubes density 100
